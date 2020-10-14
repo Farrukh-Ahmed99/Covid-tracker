@@ -137,7 +137,7 @@ var chart = new Chartist.Line('#smil-animations', {
   
   //Simple line chart
   new Chartist.Line('#simple-line-chart', {
-    labels: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+    labels: ['Mon', 'Tue', 'Wed', 'Thurs', 'Fri'],
     series: [
       [12, 9, 7, 8, 5],
       [2, 1, 3.5, 7, 3],
